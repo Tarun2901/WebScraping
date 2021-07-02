@@ -1,0 +1,1 @@
+This is just some random text and writeFileSync overwrites text in the fileThis is appended content
